@@ -8,6 +8,12 @@ Consulta los tipo test de la practica 3 de INTU 2023/2024.
 
 ![Gif](./gif.gif)
 
+## Guia de uso:
+
+```bash
+intu_cleaner --help
+```
+
 ## Guia para compilacion:
 
 1. Obtener [rust](https://www.rust-lang.org/)
