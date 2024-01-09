@@ -1,0 +1,74 @@
+Introducción a Flutter
+27
+abbdabdcbd
+
+Pregunta X: ¿Quién desarrolló Flutter y en qué año se lanzó por primera vez?
+a) Google en 2017
+b) Apple en 2016
+c) Facebook en 2015
+d) Microsoft en 2018
+
+Pregunta X: ¿Cuál es el lenguaje de programación principal utilizado en Flutter?
+a) Java
+b) Dart
+c) Swift
+d) C#
+
+Pregunta X: ¿Qué ventajas ofrece Flutter en comparación con otros frameworks de desa-
+rrollo de aplicaciones móviles?
+a) Mayor compatibilidad con dispositivos iOS
+b) Hot Reload, rendimiento rápido y widgets personalizables
+c) Facilidad para integrar con bases de datos externas
+d) Menor comunidad de desarrolladores
+
+Pregunta X: ¿Cuál es el widget básico en Flutter para la creación de interfaces de usuario?
+a) MaterialApp
+b) Scaffold
+c) WidgetBase
+d) StatelessWidget
+
+Pregunta X: ¿Qué es un "StatefulWidget" y en qué se diferencia de un "StatelessWidget"
+en Flutter?
+a) Un StatefulWidget tiene un estado mutable, mientras que un StatelessWidget tie-
+ne un estado inmutable.
+b) Un StatefulWidget no tiene estado, mientras que un StatelessWidget tiene un es-
+tado mutable.
+c) Un StatefulWidget tiene un estado mutable, mientras que un StatelessWidget no
+tiene estado.
+d) No hay diferencia entre un StatefulWidget y un StatelessWidget en Flutter.
+
+Pregunta X: ¿Qué es el Hot Reload y cómo beneficia el proceso de desarrollo en Flutter?
+a) Es una herramienta para compilar código en tiempo real, mejorando el rendi-
+miento de la aplicación.
+b) Permite realizar cambios en el código y ver los resultados de manera instantánea
+sin reiniciar la aplicación.
+c) Es un linter incorporado que identifica errores de sintaxis en tiempo real.
+d) Optimiza el uso de recursos del dispositivo para mejorar la velocidad de ejecu-
+ción de la app.
+
+Pregunta X: ¿Cuál es la plataforma objetivo principal de Flutter para el desarrollo de
+aplicaciones?
+a) Android
+b) iOS
+c) Web
+d) Todas las anteriores
+
+Pregunta X: ¿Qué herramienta se utiliza para gestionar dependencias en proyectos Flu-
+tter?
+a) Gradle
+b) CocoaPods
+c) Dart Pub
+d) Flutter Packages
+
+Pregunta X: ¿Qué es el concepto de "Widget tree" en Flutter?
+a) Una estructura de datos para almacenar widgets en una lista lineal.
+b) La representación visual jerárquica de los widgets en una aplicación Flutter.
+c) Un árbol de decisiones utilizado en el diseño de interfaces de usuario.
+d) Un patrón de diseño para organizar los widgets en grupos lógicos.
+
+Pregunta X: ¿Cómo se puede realizar la navegación entre diferentes pantallas o vistas en
+una aplicación Flutter?
+a) Mediante el uso exclusivo de widgets "Navigator".
+b) A través de "Intent" en Flutter.
+c) Usando el widget "Route".
+d) Utilizando el widget "Navigator" y la gestión de rutas.

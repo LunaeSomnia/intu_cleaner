@@ -1,0 +1,62 @@
+Interfaces Emocionales
+14
+abadbacbcc
+Pregunta X: Las interfaces emocionales:
+a) Son sistemas o tecnologías cuya finalidad es detectar, comprender y reaccionar ante las emociones de los usuarios.
+b) Son sistemas o tecnologías cuya finalidad es detectar, comprender y reaccionar ante los fallos del ordenador del usuario.
+c) Son sistemas o tecnologías cuya finalidad es detectar, comprender y reaccionar ante el tiempo que hace.
+d) Son pura teoría, no existen en la realidad.
+
+Pregunta X: La cúspide de la pirámide de características de un diseño elaborada por Miklos Philips se relaciona con:
+a) Que el producto sea usable.
+b) Que el producto sea disfrutable.
+c) Que el producto sea confiable.
+d) Que el producto sea funcional.
+
+Pregunta X: Respecto a los mecanismos biológicos subyacentes a la influencia de las emociones en la percepción de interfaces:
+a) Los mecanismos automáticos consisten en la evaluación inicial de la interfaz.
+b) Los mecanismos automáticos consisten en la comprensión y uso de la interfaz.
+c) Los mecanismos cognitivos consisten en la evaluación inicial de la interfaz.
+d) No existen los mecanismos automáticos ni cognitivos, son mecanismos somáticos y auditivos.
+
+Pregunta X: ¿En qué situación se liberaría mayor cantidad de dopamina?
+a) La aplicación que estás usando se cierra de forma inesperada.
+b) Enciendes el móvil.
+c) Arrasan tu aldea en Clash of Clans.
+d) Encuentras en TikTok un vídeo que te hará reír durante todo el día.
+
+Pregunta X: Respecto a los niveles de diseño emocional de Norman:
+a) El nivel visceral se corresponde con las emociones experimentadas.
+b) El nivel conductual se corresponde con la facilidad de aprendizaje.
+c) El nivel reflexivo se corresponde con las primeras impresiones.
+d) El nivel conductual se corresponde con las emociones experimentadas.
+
+Pregunta X: El diseño basado en experiencias:
+a) Consiste en la creación de interacciones que proporcionen experiencias gratificantes y significativas.
+b) Consiste en la creación de interacciones que proporcionen experiencias insatisfactorias y horribles.
+c) Aprovecha las respuestas emocionales del usuario.
+d) Requiere que el usuario tenga una experiencia previa para utilizar la aplicación.
+
+Pregunta X: No es una fuente para detectar emociones:
+a) El habla.
+b) Los gestos.
+c) El tono de piel.
+d) El texto.
+
+Pregunta X: Los Brain Computer Interfaces o Interfaces Cerebro-Ordenador sirven para:
+a) Convertir tu cerebro en un ordenador y lograr la inmortalidad.
+b) Controlar dispositivos con el pensamiento.
+c) Acceder a la red neuronal global y compartir pensamientos con otras personas.
+d) Modificar la estructura física del cerebro para potenciar habilidades cognitivas.
+
+Pregunta X: Respecto al tema ético en las interfaces emocionales:
+a) No existen límites a la hora de desarrollar interfaces emocionales.
+b) Los datos personales se pueden recolectar con libertad y sin tener que informar a los sujetos.
+c) Existen leyes que regulan el tema en cuestión.
+d) La ética no es relevante en el desarrollo de interfaces emocionales, ya que la tecnología siempre debe avanzar sin restricciones.
+
+Pregunta X: ¿Cuál de las siguientes afirmaciones resume mejor la importancia del diseño emocional en las interfaces tecnológicas?
+a) El diseño emocional es irrelevante, ya que la tecnología debe centrarse solo en la funcionalidad.
+b) Las emociones no influyen en la experiencia tecnológica de las personas.
+c) El diseño emocional es un superpoder que mejora la conexión entre las personas y la tecnología.
+d) Las interfaces emocionales no tienen impacto significativo en la calidad de vida de las personas.

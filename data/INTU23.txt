@@ -1,0 +1,72 @@
+Chatbots de IA Generativa
+23
+cabdddcdbd
+Pregunta X: ¿Qué es el prompt engineering?
+a) Una ingeniería centrada en los prompts
+b) Una asignatura de ingeniería informática de la mención de inteligencia
+artificial
+c) Una disciplina que se encarga de la elaboración y programación de prompts
+d) Un requisito AA de usabilidad por el WCAG 2.0
+
+Pregunta X: ¿Qué es un prompt?
+a) Una serie de consultas con una entrada
+b) Un script en Bash
+c) Un codigo en lenguaje C que interpreta el chatbot
+d) Una respuesta del chatbot
+
+Pregunta X: ¿Existen formas de evaluar la usabilidad?
+a) No, la usabilidad es algo subjetivo que no se puede evaluar de forma
+objetiva
+b) Si, por ejemplo mediante los principios generales de Dix
+c) Si, pero solo si tienes mucho feedback u opiniones de usuarios
+d) Si, pero solo durante la fase de desarrollo
+
+Pregunta X: ¿Cuál de los siguientes elementos NO constituye un principio general de
+Dix?
+a) Flexibilidad
+b) Tiempo de respuesta
+c) Claridad
+d) Accesibilidad
+
+Pregunta X: ¿Cuál de los principios de Dix MÁS destaca en esta imagen?
+a) Flexibilidad
+b) Tiempo de respuesta
+c) Compatibilidad
+d) Recuperabilidad
+
+Pregunta X: ¿A qué se refiere el principio de compatibilidad según los principios de Dix?
+a) Que el tamaño de la página se ajuste a la pantalla del dispositivo
+b) Que tanto el usuario móvil como web tengan las mismas funcionalidades
+c) Que al menos tenga todas las funcionalidades en la versión web aunque en
+la móvil no
+d) La respuesta a) y la b) son correctas
+
+Pregunta X: ¿Cuál de las siguientes afirmaciones es verdadera?
+a) El placer estético queda descrito en una guía del WCAG 2.0
+b) No hay manera de comprobar la robustez de una página porque los datos
+son privados
+c) La accesibilidad, pese a no ser un principio de Dix, contribuye a una mejor
+usabilidad
+d) Todos los iconos deben ir acompañados de un texto en pantalla siempre
+
+Pregunta X: ¿Cuál de las siguientes afirmaciones sobre la WCAG es verdad?
+a) El nivel AAA es de obligatorio cumplimiento para una página web del
+gobierno
+b) El placer estético queda descrito en una guía del WCAG 2.0
+c) Para poder evaluar los elementos de accesibilidad es obligatorio usar WAVE
+Evaluation Tool
+d) Existen regulaciones legales que obligan al cumplimiento de ciertas normas
+de accesibilidad
+
+Pregunta X: ¿Para qué sirve WAVE Browser Extension?
+a) Es una herramienta del gobierno para estandarizar la accesibilidad
+b) Es una extensión que permite evaluar la accesibilidad de una web
+c) Es una extensión que permite evaluar la robustez de una web
+d) Es una herramienta de pago que solo se puede utilizar en páginas que
+cumplan el WCAG 2.0
+
+Pregunta X: ¿Sirve como método para analizar la usabilidad un cuestionario?
+a) No, se requiere de expertos únicamente
+b) No, solo se pueden utilizar herramientas web
+c) Si, solo si el cuestionario cumple los requisitos del WCAG 2.0
+d) Si, como método complementario a otros como un análisis de exp

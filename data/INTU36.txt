@@ -1,0 +1,56 @@
+Desarrollo Moderno de Aplicaciones Web con Node.js, React y Material-UI: Una Experiencia Integral
+36
+bbbcbdcbcb
+
+Pregunta X: ¿Cuál es una de las principales ventajas de Node.js?
+a) Desarrollo del lado del cliente
+b) Arquitectura basada en eventos
+c) Integración con Redux
+d) Curva de aprendizaje empinada
+Pregunta X: ¿Cuál es una de las principales ventajas de Node.js?
+a) Desarrollo del lado del cliente
+b) Arquitectura basada en eventos
+c) Integración con Redux
+d) Curva de aprendizaje empinada
+Pregunta X: ¿Cuál es una ventaja destacada de React?
+a) Incompatibilidad con otras tecnologías
+b) Curva de aprendizaje suave
+c) Abstracción mínima de la lógica de los componentes
+d) Uso exclusivo en proyectos pequeños
+Pregunta X: ¿Cuál es una posible desventaja de React mencionada en el texto?
+a) Falta de flexibilidad en el diseño
+b) Problemas de seguridad como ataques DDoS
+c) Dificultad para comprender la funcionalidad de la aplicación
+d) Coherencia en proyectos extensos
+Pregunta X: ¿Qué función cumple Material-UI?
+a) Desarrollo del lado del servidor
+b) Creación de interfaces de usuario dinámicas
+c) Gestión de rutas y solicitudes HTTP
+d) Implementación de Redux
+Pregunta X: ¿Cuál es un posible inconveniente de Material-UI?
+a) Curva de aprendizaje empinada
+b) Limitada variedad de versiones
+c) Falta de componentes predefinidos
+d) Posibles incompatibilidades entre versiones
+Pregunta X: ¿Qué tecnologías forman parte de la combinación para el
+desarrollo de aplicaciones web?
+a) Angular y Vue
+b) Node.js, Django y Angular
+c) Node.js, React y Material-UI
+d) PHP, React y Bootstrap
+Pregunta X: ¿Cuál es el papel de Node.js en la combinación de tecnologías
+mencionada?
+a) Desarrollo del lado del cliente
+b) Manejo de la lógica del servidor
+c) Creación de interfaces de usuario dinámicas
+d) Implementación de principios de diseño de materiales
+Pregunta X: ¿Qué ventaja destaca el texto sobre la combinación de Node.js y React?
+a) Curva de aprendizaje empinada
+b) Desarrollo exclusivo para proyectos pequeños
+c) Eficiencia y estética en el desarrollo de aplicaciones web
+d) Uso exclusivo en aplicaciones de tiempo real
+Pregunta X: ¿Por qué se menciona que la estética de Material-UI puede estar muy ligada a Google?
+a) Porque Material-UI es propiedad de Google
+b) Debido a la adopción de principios de diseño de materiales de Google
+c) Porque Google controla la curva de aprendizaje de Material-UI
+d) Por la falta de identidad visual propia en empresas pequeñas

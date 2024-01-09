@@ -1,0 +1,62 @@
+Introducción a Flutter
+21
+bbcbdbaacc
+Pregunta X: ¿Qué es Flutter en el desarrollo de software?
+a) Un lenguaje de programación
+b) Un framework de UI
+c) Un sistema operativo
+d) Un servidor web
+
+Pregunta X: ¿Cuál es el lenguaje de programación principal utilizado en Flutter?
+a) Java
+b) Dart
+c) JavaScript
+d) C#
+
+Pregunta X: ¿Qué tipo de aplicaciones se puede desarrollar con Flutter?
+a) Solo aplicaciones web
+b) Solo aplicaciones móviles
+c) Aplicaciones web y móviles
+d) Solo aplicaciones de escritorio
+
+Pregunta X: ¿Cuál es el propósito principal de un widget en Flutter?
+a) Gestionar bases de datos
+b) Definir la interfaz de usuario
+c) Procesar datos en segundo plano
+d) Crear animaciones complejas
+
+Pregunta X: ¿Cuál es el widget básico para construir la interfaz de usuario en Flutter?
+a) AppWidget
+b) UIWidget
+c) MaterialApp
+d) StatelessWidget
+
+Pregunta X: ¿Cuál es el objetivo de Hot Reload en Flutter?
+a) Compilar la aplicación
+b) Recargar la aplicación sin reiniciarla
+c) Eliminar errores de código
+d) Crear una copia de seguridad
+
+Pregunta X: ¿Cuál es la función principal del widget Scaffold en Flutter?
+a) Definir la estructura de la aplicación
+b) Manejar eventos de gestos táctiles
+c) Crear animaciones complejas
+d) Administrar el estado de la aplicación
+
+Pregunta X: ¿Quién es la entidad empresarial principal detrás del desarrollo de Flutter?
+a) Google
+b) Apple
+c) Microsoft
+d) Facebook
+
+Pregunta X: ¿Cómo se realiza la navegación entre pantallas en Flutter?
+a) switchToScreen()
+b) navigateTo()
+c) push()
+d) goToScreen()
+
+Pregunta X: ¿Cuál es el beneficio principal de usar Flutter para el desarrollo de aplicaciones?
+a) Mayor rendimiento
+b) Menor costo
+c) Desarrollo más rápido para múltiples plataformas
+d) Acceso exclusivo a ciertas características del dispositivo

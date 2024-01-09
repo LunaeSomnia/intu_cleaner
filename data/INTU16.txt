@@ -1,0 +1,70 @@
+Interfaces de Usuario Gestuales
+16
+cccccccccc
+Pregunta X: ¿Por qué es importante considerar la personalización en los gestos, según el
+texto?
+a) Porque todos los usuarios tienen las mismas preferencias.
+b) Para limitar la adaptabilidad de la interfaz.
+c) Debido a la diversidad en las preferencias y habilidades físicas de los
+usuarios.
+d) Para aumentar la complejidad y desafío de la experiencia del usuario.
+Pregunta X: ¿Por qué es importante el tiempo de respuesta adecuado en la detección de
+gestos?
+a) Para aumentar la duración de la interacción.
+b) Para evitar gestos accidentales.
+c) Para permitir una experiencia fluida.
+d) Para limitar la personalización de gestos.
+Pregunta X: ¿Cuál es una buena práctica para el diseño de gestos intuitivos?
+a) Realizar gestos lejos del cuerpo.
+b) Emular movimientos poco comunes.
+c) Basarse en acciones comunes y reconocibles.
+d) Evitar gestos de una sola mano.
+Pregunta X: ¿Por qué es recomendable evitar gestos que requieran movimientos
+extremadamente grandes?
+a) Para aumentar la dificultad en la ejecución de gestos.
+b) Para adaptarse a todos los públicos.
+c) Para minimizar la posibilidad de errores de reconocimiento.
+d) Para reducir la accesibilidad de la interfaz.
+Pregunta X: ¿Qué es crucial para evitar confusiones en interfaces gestuales en relación
+con el tiempo de respuesta?
+a) Tiempo de respuesta extremadamente largo.
+b) Tiempo de respuesta variable.
+c) Tiempo de detección de gestos rápido y preciso.
+d) Tiempo de detección de gestos lento.
+Pregunta X: ¿Por qué se prefiere el uso de gestos de una sola mano en dispositivos
+móviles?
+a) Porque es incómodo.
+b) Para aumentar la curva de aprendizaje.
+c) Por la practicidad y la capacidad de realizar múltiples tareas.
+d) Porque no es ergonómico.
+Pregunta X: ¿Cuál es la consecuencia de un problema pequeño en la implementación de
+controladores gestuales?
+a) Mejora en la experiencia de usuario.
+b) Ningún impacto en la experiencia de usuario.
+c) Deterioro notable en la experiencia de usuario.
+d) Aumento de la robustez del sistema.
+Pregunta X: ¿Cuál es uno de los objetivos clave al crear un modelo de IA para detectar
+poses, considerando la diversidad de usuarios en términos de estatura,
+proporciones y raza?
+a) Alta complejidad del modelo
+b) Detección sensible a la estatura
+c) Consistencia en la detección independientemente de las diferencias físicas
+d) Adaptable solo a ciertas proporciones corporales
+Pregunta X: ¿Cuál es la importancia del feedback al usuario tras realizar una acción en
+respuesta a un gesto?
+a) El feedback no tiene ninguna importancia en interfaces de usuario gestuales
+b) Muchísima, y la aplicación debe basarse exclusivamente alrededor de ese
+concepto
+c) Añade una manera adicional de confirmar al usuario que el gesto se ha
+realizado correctamente, siendo especialmente útil para accesibilidad
+d) Poca, ya que el usuario puede entender que un gesto se ha realizado
+correctamente simplemente mirando a la pantalla
+Pregunta X: Teniendo en cuenta las características de distintos tipos de entrada para la
+captación de gestos del usuario
+a) Los dispositivos basados en infrarrojos son los mejores al ser capaces de
+detectar cualquier usuario basándose en su calor
+b) Los dispositivos basados en cámaras de profundidad son imprácticos en
+aplicaciones de hoy en día al ser demasiado caros para lo que ofrecen
+c) Los dispositivos basados en cámaras de profundidad son mucho más
+avanzados que los de infrarrojos.
+d) No son necesarios para crear interfaces gestuales de cuerpo completo

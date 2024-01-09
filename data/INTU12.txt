@@ -1,0 +1,55 @@
+Asistentes Virtuales
+12
+acbaadaccb
+Pregunta X: ¿Cuál es el papel fundamental de los asistentes virtuales en los ecosistemas tecnológicos de las grandes compañías?
+a) Proporcionar una experiencia integral y facilitar la integración de productos y servicios.
+b) Actuar como dispositivos exclusivos e interconectados.
+c) Incentivar la fidelidad de marca a través de la publicidad.
+d) Limitarse a ofrecer funciones básicas sin integrarse con otros servicios
+Pregunta X: ¿Cuál de las siguientes afirmaciones describe mejor la función principal de un asistente virtual?
+a) Son dispositivos diseñados exclusivamente para reproducir música.
+b) Se utilizan únicamente para realizar llamadas telefónicas.
+c) Actúan como interfaces inteligentes que proporcionan una interacción in- tuitiva y facilitan la integración de productos y servicios.
+d) Están destinados únicamente a la navegación por Internet
+Pregunta X: ¿Cual de los siguientes asistentes virtuales se destacó por su enfoque proactivo, anticipando las necesidades de los usuarios desde su lanzamiento?
+a) Siri - Apple
+b) Google Assistant - Google
+c) Alexa - Amazon
+d) DuerOS - Baidu
+Pregunta X: ¿Cual de los asistentes virtuales se lanzó inicialmente con limitaciones en términos de idioma, pero a lo largo de los años ha experimentado mejoras significativas en su comunicación fluida con los usuarios?
+a) Siri - Apple
+b) Google Assistant - Google
+c) Alexa - Amazon
+d) DuerOS - Baidu
+Pregunta X: ¿Qué funcionalidad común entre los asistentes virtuales potencia la versatilidad al permitir a los usuarios interactuar con sus dispositivos de manera eficiente y sin necesidad de tocar la pantalla?
+a) Control de aplicaciones y ajustes del sistema.
+b) Manejo de ajustes del sistema.
+c) Funciones de cámara.
+d) Reproducción de música y podcasts.
+Pregunta X: ¿Cómo contribuyen las funciones de comunicación de las asistentes virtuales a mejorar la accesibilidad y eficiencia en la comunicación de los usuarios?
+a) Facilitando la gestión de aspectos fundamentales del dispositivo.
+b) Permitiendo capturar momentos de manera rápida y sencilla.
+c) Proporcionando respuestas y datos actualizados de la web.
+d) Ayudando a gestionar el tiempo y recordar tareas importantes mediante comandos de voz
+Pregunta X: ¿Cual de los siguientes asistentes virtuales ha demostrado una alta precisión en el reconocimiento de voz, incluso en entornos ruidosos y con una variedad de acentos, contribuyendo significativamente a una experiencia de usuario fluida?
+a) Google Assistant
+b) Siri - Apple
+c) Alexa - Amazon
+d) Xiao Al - Xiaomi
+Pregunta X: ¿Cual de los siguientes asistentes virtuales ha alcanzado una impresionante precisión del 70 %, consolidando su reputacóon como casi libre de errores?
+a) Siri - Apple
+b) Alexa - Amazon
+c) Google Assistant
+d) Xiao Al - Xiaomi
+Pregunta X: ¿Cuáles son las principales fortalezas de los asistentes virtuales Xiao Al
+y DuerOS en comparación con otros asistentes como Google Assistant, Alexa y Siri?
+a) Se destacan por su capacidad de comprensión del lenguaje natural en múltiples idiomas.
+b) Ofrecen una amplia integración con dispositivos de terceros y una variedad
+de servicios populares.
+c) Están diseñados específicamente para el mercado chino, controlando dispositivos y brindando funciones adaptadas a ese mercado.
+d) Sobresalen en la automatización del hogar y el control de dispositivos inteligentes, con una extensa lista de Skills y capacidades avanzadas.
+Pregunta X: ¿Cuál de los asistentes virtuales se destaca por su utilidad en funciones relacionadas con llamadas, mensajes de texto, correo electrónico, calendario y música, especialmente en dispositivos integrados en el sistema operativo del teléfono?
+a) Google Assistant
+b) Siri
+c) Alexa
+d) XiaoAl

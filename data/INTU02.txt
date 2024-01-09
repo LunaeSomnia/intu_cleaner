@@ -1,0 +1,59 @@
+Desarrollo de Prototipos con Angular
+2
+cbdbccabca
+Pregunta X: ¿Qué es Angular?
+a) Un lenguaje de programación
+b) Un tipo de letra
+c) Un framework de desarrollo web
+d) Una base de datos relacional
+Pregunta X: ¿Cuál es la función principal de un "header" en una página web?
+a) Mostrar información al final de la página
+b) Proporcionar un menú de navegación y otros elementos al inicio de la página
+c) Cambiar el estilo de los párrafos
+d) Ocultar el contenido principal
+Pregunta X: ¿Qué comando se utiliza para iniciar un servidor de desarrollo en Angular?
+a) ng test
+b) ng start
+c) ng run
+d) ng serve
+Pregunta X: ¿Cuál es la herramienta de línea de comandos para generar un nuevo
+componente en Angular?
+a) ng create component
+b) ng generate component
+c) ng build component
+d) ng new component
+Pregunta X: ¿Qué es un "footer" en una página web?
+a) Una sección de comentarios
+b) Una imagen en la parte superior de la página
+c) La información al final de la página, como copyright o enlaces de contacto
+d) Un menú de navegación
+Pregunta X: ¿Cuál es el lenguaje de programación principal utilizado en Angular?
+a) Java.
+b) JavaScript.
+c) TypeScript.
+d) Python.
+Pregunta X: ¿Cuál es el propósito principal de Angular Services?
+a) Compartir datos y lógica entre componentes.
+b) Manipular el DOM.
+c) Diseñar la interfaz de usuario.
+d) Gestionar eventos de teclado.
+Pregunta X: ¿Qué es Angular Material en el contexto de desarrollo de aplicaciones con
+Angular?
+a) Un lenguaje de programación desarrollado por Google.
+b) Una biblioteca de componentes y estilos de diseño basada en Material Design
+para Angular.
+c) Un servicio de alojamiento para aplicaciones Angular.
+d) Un motor de renderización para gráficos 3D.
+Pregunta X: ¿Cómo aborda Angular la compatibilidad entre dispositivos móviles y de
+escritorio en el desarrollo de aplicaciones web?
+a) Angular proporciona dos versiones separadas para dispositivos móviles y de escritorio.
+b) Angular no es compatible con dispositivos móviles.
+c) Angular utiliza un enfoque de diseño responsivo y ofrece herramientas para crear
+aplicaciones que funcionen bien en diferentes tamaños de pantalla y dispositivos.
+d) Angular utiliza un emulador de dispositivos para probar la compatibilidad.
+Pregunta X: ¿Cuál de las siguientes opciones describe una desventaja comúnmente asociada
+con Angular?
+a) La curva de aprendizaje es muy pronunciada para nuevos desarrolladores.
+b) Angular no ofrece la capacidad para crear aplicaciones interactivas.
+c) Angular no es adecuado para aplicaciones de gran tamaño.
+d) Angular carece de una comunidad activa de desarrolladores.

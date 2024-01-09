@@ -1,0 +1,63 @@
+Herramientas de diseño de interfaces de usuario en entornos de escritorio
+7
+bcbadcdcba
+Pregunta X: La librería de Swing de Java:
+a) Se utiliza para operaciones matemáticas
+b) Proporciona componentes para crear interfaces gráficas de usuario
+c) Es específica para el desarrollo web en Java
+d) Es una base de datos en Java
+Pregunta X: En los editores WYSIWYG (What You See Is What You Get):
+a) Este es un lenguaje de programación
+b) Permiten ver el código HTML de una página web
+c) Permiten al usuario ver una representación visual del resultado
+final mientras lo edita
+d) A y B son verdaderas
+Pregunta X: Algunas herramientas de creación de interfaces de usuario que
+utilizan Java son:
+a) Eclipse y MySQL
+b) IntelIJ IDEA y NetBeans
+c) Adobe Illustrator
+d) Photoshop
+Pregunta X: Una ventaja de Eclipse WindowBuilder para el desarrollo de
+interfaces de usuario es:
+a) Facilita la creación de interfaces mediante la generación automática
+de código Java
+b) Solo es compatible con el entorno de desarrollo IntelIJ IDEA
+c) No utiliza la librería Swing
+d) Está diseñado para aplicaciones móviles
+Pregunta X: La herramienta Scene Builder
+a) No genera código durante el diseño de las interfaces
+b) Se utiliza con JavaFX para crear interfaces de usuario
+c) Es independiente, no está integrada directamente en un entorno de
+desarrollo
+d) B y C son ciertas
+Pregunta X: La tecnología que permite arrastrar y soltar los componentes en el
+área de trabajo para agregarlos a la interfaz se llama:
+a) Click and drag
+b) What You See Is What You Get
+c) Drag and drop
+d) Ninguna de las anteriores
+Pregunta X: Una diferencia de la pestaña de diseño de Netbeans respecto a la de
+WindowBuilder es:
+a) No tiene botón de deshacer/rehacer
+b) Los nombres de los componentes son muy distintos
+c) Las dos anteriores
+d) Permite editar el código de los componentes desde la pestaña de
+diseño
+Pregunta X: Sobre IntelliJ IDEA GUI Designer:
+a) Es una herramienta de creación de GUI independiente de los IDE
+b) Utiliza la librería Swing
+c) B y D son correctas
+d) Permite modificar las propiedades de los componentes
+Pregunta X: La herramienta en la que no se debe editar el código fuente
+generado es:
+a) Scene Builder
+b) IntelIJ IDEA GUI Builder
+c) Eclipse WindowBuilder
+d) NetBeans GUI Builder
+Pregunta X: Selecciona la afirmación verdadera
+a) Todas son verdaderas
+b) NetBeans GUI Builder y WindowBuilder ofrecen páginas de ayuda
+c) Scene Builder permite aplicar animaciones y efectos a los
+componentes de la interfaz
+d) Los componentes de las interfaces se organizan en contenedores

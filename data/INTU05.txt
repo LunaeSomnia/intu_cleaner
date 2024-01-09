@@ -1,0 +1,66 @@
+Desarrollo de Prototipos con Angular
+5
+ccbaacbdac
+Pregunta X: 
+¿Qué lenguaje de programación se utiliza como principal en
+Angular para implementar la lógica?
+a) Java
+b) JavaScript
+c) TypeScript
+d) PHP
+¿Cuál de las siguientes NO es una herramienta del
+ecosistema de Angular?
+a) Angular CLI
+b) RxJS DevTools
+c) Redux
+d) Angular Universal
+Pregunta X: 
+¿Cuál es una desventaja común de Angular?
+a) Facilidad de aprendizaje
+b) Tamaño de la aplicación
+c) Baja compatibilidad con navegadores
+d) Escaso soporte de la comunidad
+Pregunta X: 
+¿Quien es el creador de Angular?
+a) Google
+b) Meta Platforms
+c) Oracle
+d) Microsoft
+Pregunta X: 
+¿Cómo está compuesto un componente POR DEFECTO?
+a) Fichero CSS, HTML y TypeScript
+b) Fichero CSS, HTML, TypeScript y Kotlin (En el caso de móvil)
+c) Solamente un fichero HTML
+d) Solamente HTML y CSS, para usar TypeScript hay que
+instalar Angular Material
+Pregunta X: 
+¿Cual de las siguientes es una ventaja de Angular?
+a) Curva de aprendizaje sencilla
+b) Tamaño de aplicación ligero
+c) Componentes personalizados y reutilizables
+d) Uso de Java, para implementar la lógica
+Pregunta X: 
+¿Qué es Angular?
+a) Biblioteca de componentes lista para usar
+b) Framework para desarrollo web sobre TypeScript
+c) Framework para desarrollo web sobre JavaScript
+d) Un IDE que permite la construcción de webs visualmente
+Pregunta X: 
+¿En que se basa la arquitectura de Angular?
+a) MPA (Multiple Page Application)
+b) DPA (Double Page Application)
+c) TPA (Triple Page Application)
+d) SPA (Single Page Application)
+Pregunta X: 
+¿Qué ventaja aporta el uso de SPAs?
+a) El usuario puede navegar ininterrumpidamente
+b) El usuario puede navegar ininterrumpidamente, aunque la
+página debe recargarse
+c) Permite un tamaño de aplicación más ligero
+d) El uso de SPAs no aporta ventajas
+Pregunta X: 
+Angular se caracteriza por utilizar…
+a) Enlace de datos unidireccional
+b) Enlace de datos covalente
+c) Enlace de datos bidireccional
+d) Enlace de datos cliente-servidor uniforme

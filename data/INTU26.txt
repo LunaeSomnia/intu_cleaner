@@ -1,0 +1,67 @@
+Análisis de entornos de desarrollo de videojuegos
+26
+bdddbaadcd
+
+Pregunta X: ¿Cuál es una característica distintiva de la interfaz de Unreal Engine?
+a) Es simple y diseñada para principiantes
+b) Es sobrecargada pero manejable para usuarios más experimentados
+c) Se enfoca únicamente en la programación en C++
+d) Carece de herramientas especializadas
+
+Pregunta X: ¿Cuál de los siguientes no es un criterio mencionado para evaluar los entornos de desarrollo de
+videojuegos?
+a) Rendimiento
+b) Documentación
+c) Interfaces
+d) Colores de fondo
+
+Pregunta X: ¿Cuál es una de las principales desventajas de la documentación de Godot?
+a) Estructura del documento
+b) Falta de ejemplos prácticos
+c) Diﬁcultad de entendimiento para principiantes
+d) Poca comunidad y foros de ayuda
+
+Pregunta X: ¿Que entorno de desarrollo de videojuegos utiliza un enfoque de desarrollo de software que
+permite crear lógica y funcionalidades en una aplicación mediante interfaces gráﬁcas?
+a) Godot
+b) Unity
+c) Unreal Engine
+d) Todas son correctas
+
+Pregunta X: ¿Que entorno de desarrollo de videojuegos permite a sus usuarios modiﬁcar su código fuente
+permitiéndoles modiﬁcar su entorno de trabajo a su gusto?
+a) Unity
+b) Godot
+c) Unreal Engine
+d) Todas son correctas
+
+Pregunta X:¿Sobre qué entorno se ha realizado el prototipo del videojuego?
+a) Unity
+b) Godot
+c) Unreal Engine
+d) Ninguna de las anteriores
+
+Pregunta X: ¿Como se llama el cuaderno que te muestra las directrices sobre las que evaluar las interfaces en
+el videojuego?
+a) Cuaderno de directrices
+b) Cuaderno de reporte
+c) Cuaderno
+d) Ninguna de las anteriores
+
+Pregunta X: ¿Que papel interpreta el jugador?
+a) Limpiador de reactores nucleares
+b) Amo de casa
+c) Físico experimental
+d) Analizador de interfaces de usuario
+
+Pregunta X: ¿Cual es el objetivo del jugador en el videojuego?
+a) Ganar puntos de respeto
+b) Aprender conceptos de programación
+c) No quedarse sin dinero
+d) Eliminar a la mayor cantidad de enemigos posible
+
+Pregunta X: ¿Aparecen interfaces funcionales en el prototipo desarrollado?
+a) No, pero la idea es introducirlas en niveles avanzados
+b) Si, en ambos niveles desarrollados
+c) No, se descartó dicho concepto debido a la diﬁcultad a la hora de llevarlo a cabo
+d) Ninguna de las anteriores

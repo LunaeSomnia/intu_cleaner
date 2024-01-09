@@ -1,0 +1,60 @@
+Diseño de interfaces multiplataforma Windows Fluent Design
+4
+addabaaaad
+Pregunta X: En que sistema se empezó a usar Windows
+Fluent Design?
+a) En la versión Rs3 de Windows 10
+b) En Windows XP
+c) En Windows 8
+d) En WIndows 11
+Pregunta X: Cuando se estreno la version de 2 de Windows
+Fluent Design?
+a) 2017
+b) 2018
+c) 2022
+d) 2023
+Pregunta X: Cuantos principios tiene Windows Fluent
+Design?
+a) 10
+b) 11
+c) 8
+d) 5
+Pregunta X: Que define al esquemorfismo?
+a) Imitar lo real respecto a nuestra realidad
+b) Sus colores vivos
+c) Simplicidad de la IU
+d) El encuadramiento para cada dispositivo
+Pregunta X: En que se baso Google para crear Google
+Material Design?
+a) Esqueumorfismo
+b) Flat Design
+c) Minimalismo
+d) Windows Fluent Design
+Pregunta X: Cual es la principal caracteristica de la Luz?
+a) Atraer al usuario
+b) Espantar al usuario
+c) Simplificar la IU
+d) Desorientar al usuario
+Pregunta X: Cuales de estas opciones es un “Material” de
+Window Fluent Design?
+a) Humo
+b) Transparencia
+c) Cremosidad
+d) Mate
+Pregunta X: Que le permite la escala a Windows Fluent
+Design?
+a) Adaptar la IU a todos los dispositivos
+b) Hacer menos accesible la IU
+c) Embellecer la IU
+d) No ser estable en distintos dispositivos
+Pregunta X: Elija la opción mas adecuada de WFD respecto a
+la comparacion de profundidad con GMD y WFD
+a) Efecto 3D inmersivo
+b) Centrarse en distintas tipografías
+c) Poner mas cerca del usuario la información mas relevante
+d) Sombrear las Letras
+Pregunta X:0 Donde es util aplicar Windows Fluent Design?
+a) Web responsives
+b) Sitios webs generales
+c) Aplicaciones web personalizables
+d) En el ecosistema de Windows Fluent Design

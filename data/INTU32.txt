@@ -1,0 +1,108 @@
+Estudio sobre la interacción persona/ordenador
+32
+dbbaaddada
+
+Pregunta 1:
+Sobre la jerarquía visual, indique la opción
+falsa.
+a) El cambio en el estilo tipográfico, como fuentes o tamaños, puede
+dirigir la atención del lector hacia áreas específicas, contribuyendo al
+orden visual
+b) El espacio es un elemento visual esencial para garantizar el orden y la
+lectura de cualquier composición.
+c) La forma de los elementos visuales en una composición impacta
+directamente en cómo dirigimos nuestra
+atención.
+d) Los colores son importantes para captar la atención: los colores
+tenues tienen más a llamar la atención que los colores brillantes.
+
+Pregunta 2:
+¿Qué son los movimientos sacádicos?
+a) Son movimientos lentos que siguen un patrón determinado,
+normalmente en F o en Z.
+b) Son desplazamientos rápidos de los ojos entre diferentes puntos de
+interés.
+c) Son movimientos oculares involuntarios que dispersan nuestra
+atención.
+d) Son desplazamientos oculares aleatorios e intermitentes que no tienen
+interés dentro del eyetracking.
+
+Pregunta 3:
+La secuencia por la cual los ojos se mueven
+a través de la pantalla son…
+a) Puntos de entrada y salida
+b) Rutas oculares
+c) Mapas de calor
+d) Segmentos de fijación.
+
+Pregunta 4:
+¿Cuál de estos no es un patrón de lectura
+común?
+a) Patrón T
+b) Patrón Z
+c) Patrón F
+d) Patrón G
+
+Pregunta 5:
+¿Cuál de estos NO es un software de
+Eyetracking?
+a) TrackMyEyes
+b) Tobii Pro Lab
+c) iMotions
+d) GazeRecorder
+
+Pregunta 6:
+¿Qué tipo de contenido se ajusta mejor al
+patrón F en el eyetracking?
+a) Videos de animación
+b) Párrafos breves y directos al punto
+c) Imágenes, infografías y otros recursos gráficos.
+d) Textos largos o párrafos extensos donde se
+busca información relevante rápidamente.
+
+Pregunta 7:
+¿Cuál de las siguientes tecnologías se utiliza
+comúnmente en el eyetracking?
+a) Resonancia magnética.
+b) Sensores de movimiento.
+c) No se utiliza ninguna tecnología, se suelen hacer
+entrevistas a los participantes.
+d) Cámaras infrarrojas o de seguimiento ocular.
+
+Pregunta 8:
+Sobre el proceso de Eyetracking, selecciona
+la incorrecta.
+a) Es buena idea hablar con el participante durante la
+prueba para conocer sus pensamientos. Se conoce
+como «Think Aloud».
+b) Hay que hacer pruebas continuas a medida que
+evoluciona el diseño.
+c) Es importante calibrar bien los sensores antes de
+comenzar con la evaluación.
+d) El Eyetracking también se utiliza en otras áreas como
+Publicidad, Cine….
+
+Pregunta 9:
+¿Cuál es una aplicación práctica del
+eyetracking en el diseño web?
+a) Reducir el tiempo de carga de la página web.
+b) Mejorar la calidad de los elementos visuales
+(resolución, colores…)
+c) Hacer la página web más accesible para personas
+con discapacidad visual.
+d) Mejorar la disposición de los elementos visuales
+según la atención del usuario.
+
+Pregunta 10:
+Sobre las consideraciones éticas del
+eyetracking, seleccione la incorrecta.
+a) Los datos de eyetracking no necesitan ser anónimos, ya
+que no revelan información personal.
+b) La manipulación de la atención del usuario con fines
+publicitario plantea cuestiones éticas.
+c) El eyetracking puede revelar patrones de atención que
+pueden varias según la demografía por lo que puede
+generar problemas de discriminación.
+d) El eyetracking puede revelar información íntima sobre
+preferencias y comportamientos, que necesitan ser
+protegidos.

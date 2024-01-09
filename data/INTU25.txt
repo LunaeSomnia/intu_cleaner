@@ -1,0 +1,66 @@
+Comparativa de Asistentes Virtuales
+25
+bdcbcbaabd
+Pregunta X: ¿Cómo se define un asistente virtual en el contexto del texto?
+a)Un dispositivo físico que realiza tareas computacionales.
+b) Un agente de software que automatiza tareas con mínima interacción hombre-máquina.
+c) Un programa informático que solo responde a comandos de voz.
+d) Un sistema de inteligencia artificial sin funciones específicas.
+
+Pregunta X: ¿Cuál es la principal diferencia en el acceso a Alexa en dispositivos móviles en comparación con sus
+competidores, Google Assistant y Siri?
+a) Alexa está preinstalado en todos los teléfonos móviles.
+b) Alexa no es compatible con dispositivos móviles.
+c) Alexa se activa automáticamente en dispositivos Android.
+d) Se accede a Alexa mediante la aplicación en dispositivos móviles.
+
+Pregunta X: ¿Qué dispositivo económico permite a los fabricantes hacer sus productos directamente compatibles con
+alexa?
+a) Echo Pop.
+b) Echo Dot.
+c) Alexa Connect Kit.
+d) Echo Input.
+
+Pregunta X: ¿Cuál de los siguientes dispositivos ha ganado popularidad como una opción ampliamente adoptada en
+hogares para integrar la asistencia virtual de Google?
+a) Google Nest Audio.
+b) Google Nest Mini.
+c) JBL Altavoz Inteligente.
+d) Bang & Olufsen Smart TV.
+
+Pregunta X: ¿Cuál es una característica destacada de Google Assistant en términos de compatibilidad con dispositivos?
+a) Exclusivamente compatible con dispositivos de la marca Google.
+b) Menos dispositivos compatibles en comparación con Alexa.
+c) Mayor presencia en dispositivos compatibles que Alexa.
+d) Solo compatible con altavoces inteligentes.
+
+Pregunta X: ¿Qué limitación presenta Siri en comparación con Google Assistant y Alexa en la comprensión del lenguaje
+natural?
+a) Dificultad al hablar rápido.
+b) Sensibilidad al acento fuerte.
+c) Uso exclusivo desde la pantalla de bloqueo.
+d) Limitaciones en la automatización del hogar.
+
+Pregunta X: ¿Cuál es la principal fortaleza de Siri según el texto?
+a) Integración perfecta con dispositivos de la marca Apple.
+b) Amplia compatibilidad con dispositivos de terceros.
+c) Mayor inteligencia artificial que Google Assistant.
+d) Disponibilidad extensa de altavoces inteligentes.
+
+Pregunta X: ¿En qué tipo de dispositivos Cortana está integrado de forma predeterminada según el texto?
+a) Dispositivos Windows.
+b) Altavoces inteligentes.
+c) Amazon Echo.
+d) Teléfonos móviles Android.
+
+Pregunta X: ¿En qué NO destaca la potencia de Watson en el Procesamiento del Lenguaje Natural (PLN)?
+a) Análisis de sentimientos.
+b) Interpretacion de documentos.
+c) Extracción de entidades.
+d) Descodificación de conceptos.
+
+Pregunta X: ¿En qué aspecto Duer destaca en términos de compatibilidad?
+a) Con iOS exclusivamente.
+b) Con sistemas operativos Windows.
+c) Con dispositivos inteligentes para el hogar.
+d) Con dispositivos Android.

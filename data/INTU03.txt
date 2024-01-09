@@ -1,0 +1,61 @@
+Diseño de interfaces con gafas de realidad virtual
+3
+acabdbdcbd
+Pregunta X: ¿Cuál es el principal enfoque de las interfaces de gafas de VR?
+a) Inmersión.
+b) Comodidad.
+c) Placer visual.
+d) Accesibilidad.
+Pregunta X: ¿Cuál de estos métodos de entrada es más natural para el usuario?
+a) Eye tracking.
+b) Apuntar con los mandos.
+c) Hand tracking.
+d) Trackpad.
+Pregunta X: ¿Cómo se espera que evolucionen las interfaces en dispositivos de realidad
+virtual en el futuro según las conclusiones del trabajo?
+a) Ser menos intrusivas y notables para una mayor inmersión.
+b) Aprovechar mejor el tracking de los mandos.
+c) Dar más placer visual al usuario.
+d) Mejorar el rendimiento.
+Pregunta X: ¿Por qué es relevante analizar la estructura común de las gafas de realidad
+virtual en el contexto del diseño de interfaces?
+a) Para elegir el mejor modelo.
+b) Para comprender la relación entre hardware y software.
+c) Para que la experiencia sea inmersiva.
+d) Para crear una interfaz agradable a la vista.
+Pregunta X: ¿Con qué metáforas se nombran los botones más comunes en modelos de
+mandos de realidad virtual?
+a) Martillo y mango.
+b) Martillo y agarre.
+c) Gatillo y mango.
+d) Gatillo y agarre.
+Pregunta X: ¿Cuál es la principal diferencia en el diseño de interfaces entre los primeros
+modelos de gafas de realidad virtual y los modelos actuales, según la
+evolución del control en VR?
+a) Uso de retroalimentación háptica.
+b) Incorporación y mejora del hand tracking.
+c) Introducción de los joysticks en los mandos.
+d) Enfoque en la realidad aumentada en lugar de la virtual.
+Pregunta X: ¿Qué impacto tiene el hand tracking en la selección en el menú, según el
+trabajo?
+a) Aumenta la carga cognitiva
+b) Introduce complejidad innecesaria
+c) Reduce la velocidad de la interacción
+d) Mejora la inmersión al eliminar los mandos
+Pregunta X: ¿Qué método elimina parte del proceso de pulsar un botón, haciendo que el
+usuario navegue más rápidamente?
+a) Uso del trackpad
+b) Apuntar con el mando
+c) Eye tracking
+d) Hand tracking
+Pregunta X: ¿Cuál es el principal enfoque en el diseño de los mandos de realidad virtual?
+a) Los botones
+b) El tracking
+c) El mango
+d) Que sean agradables a la vista
+1Pregunta X: ¿Qué diferencias hay entre un menú diseñado para ser navegado con trackpad
+y otro para ser navegado con puntero?
+a) El primero es más natural para el usuario
+b) No hay diferencias
+c) En el segundo los botones son más grandes y están más juntos
+d) En el primero los botones son más grandes y están más juntos.

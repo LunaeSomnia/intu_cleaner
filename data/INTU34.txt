@@ -1,0 +1,64 @@
+Windows Fluent Design
+34
+abcbdbacdc
+
+Pregunta 1: ¿Qué es Windows Fluent Design?
+a) Un sistema de diseño.
+b) Una plataforma de desarrollo.
+c) Un lenguaje de programación.
+d) Una base de datos.
+Pregunta 2: ¿Cuales son los principios clave de Fluent Design?
+a) Materialidad, brillo, movimiento y coherencia.
+b) Color, claridad, tipografía y animaciones.
+c) Profundidad, movimiento, materialidad y tipografía.
+d) Contraste, escalabilidad, profundidad y legibilidad.
+Pregunta 3: ¿Cuál de estos conceptos o características no esta asociado con Fluent
+Design?
+a) Reacción Háptica.
+b) Tipografía clara.
+c) Transiciones animadas.
+d) Iluminación en tiempo real.
+Pregunta 4: ¿Cómo se define la adaptabilidad al contexto en Fluent Design?
+a) La capacidad para reaccionar a cambios en el clima
+b) Ajustar la interfaz según la orientación del dispositivo y
+tamaño de pantalla
+c) Limitar la experiencia de usuario a dispositivos móviles
+únicamente
+d) Mantener una interfaz estática independientemente del
+dispositivo utilizado
+Pregunta 5: ¿Qué tecnología se utiliza principalmente para aplicar Fluent Design
+en aplicaciones web?
+a) XAML
+b) C#
+c) C++
+d) HTML, CSS y JavaScript
+Pregunta 6: ¿Cuál es el propósito principal de Windows Fluent Design?
+a) Mejorar el rendimiento de los dispositivos Windows
+b) Crear una interfaz de usuario más intuitiva y atractiva
+c) Desarrollar aplicaciones específicas para tabletas
+d) Establecer una mayor compatibilidad con sistemas operativos
+Pregunta 7: ¿Cuál es la finalidad de la Iluminación en tiempo real en Fluent Design?
+a) Simular la luz ambiental para los elementos de la interfaz
+b) Añadir sombras estáticas a la interfaz
+c) Cambiar los colores según la elección del usuario
+d) Proporcionar un efecto de movimiento al desplazarse por la
+pantalla
+Pregunta 8: ¿Cuál es uno de los principios clave de la tipografía en Fluent Design?
+a) Contraste mínimo entre texto y fondo
+b) Escalabilidad poco importante para diferentes tamaños de
+pantalla
+c) Legibilidad en distintas resoluciones y tamaños de texto
+d) Coherencia en la elección de fuentes solo para dispositivos
+móviles
+Pregunta 9: ¿Qué implica la reacción háptica en Fluent Design?
+a) Simulación de sensaciones visuales en la interfaz
+b) Incrementar la iluminación en tiempo real de los elementos
+c) Mejorar la legibilidad de la tipografía en diferentes dispositivos
+d) Proporcionar retroalimentación táctil a las interacciones del
+usuario
+Pregunta 10: ¿Qué efecto visual introduce Fluent Design para dar sensación de
+profundidad?
+a) Efecto de sombreado dinámico
+b) Efecto de iluminación en tiempo real
+c) Efecto de desenfoque y transparencia (Acrylic )
+d) Efecto de movimiento háptico

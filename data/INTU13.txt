@@ -1,0 +1,72 @@
+Evaluación Usabilidad de los chatbots de IIAA
+13
+abdcbbdcbd
+Pregunta X: En el contexto de la usabilidad de chatbots de IA generativa,
+¿por qué se considera importante la “prompt engineering”?
+a) Para obtener respuestas más precisas.
+b) Para mejorar la velocidad de procesamiento de consultas
+c) Para optimizar la presentación visual de la interfaz
+d) Para garantizar la seguridad en la transmisión de datos.
+Pregunta X: Dentro de la usabilidad, ¿ qué aspecto se aborda al evaluar
+la interfaz conversacional de un chatbot de IA generativa?
+a) Velocidad de conexión a Internet
+b) Coherencia y contexto en respuestas
+c) Tamaño de pantalla del dispositivo
+d) Compatibilidad con diferentes navegadores
+Pregunta X: ¿Cuál podría ser un beneficio práctico de mejorar la interfaz
+conversacional en chatbots de IA generativa?
+a) Aumentar la velocidad de conexión
+b) Personalizar respuestas basadas en la ubicación del usuario
+c) Garantizar la compatibilidad con todos los navegadores web
+d) Facilitar una comunicación más natural y comprensible.
+Pregunta X: Dentro de la evaluación de usabilidad en chabots de IA
+generativa, ¿por qué es relevante la categoría “Información
+Foraging”?
+a) Para evaluar la seguridad en la transmisión de datos.
+b) Para medir la eficiencia temporal en la generación de
+respuestas.
+c) Para entender cómo los usuarios buscan información en
+el chatbot.
+d) Para analizar la adaptabilidad del chatbot a diferentes
+dispositivos
+Pregunta X: En el contexto de la usabilidad en chatbots de IA generativa,
+¿Por qué es crucial evaluar la adaptabilidad a preferencias
+individuales?
+a) Para garantizar la compatibilidad con todos los dispositivos.
+b) Para personalizar la experiencia del usuario y satisfacer sus
+necesidades específicas.
+c) Para mejorar la velocidad de procesamiento de consultas.
+d) Para analizar la coherencia conversacional en respuestas.
+Pregunta X: En el marco de la usabilidad, ¿cómo contribuye la
+integración de datos contextualizados en chatbots de IA
+generativa como Bing Chat?
+a) Mejora la velocidad de conexión
+b) Facilita respuestas más informadas.
+c) Aumenta la coherencia conversacional.
+d) Optimiza la presentación visual de la interfaz.
+Pregunta X: ¿Cuál podría ser un desafío potencial al evaluar la coherencia
+conversacional en chatbots de IA generativa?
+a) Velocidad de conexión a Internet.
+b) Dificultad para comprender instrucciones claras.
+c) Falta de integración con servicios adicionales.
+d) Variabilidad en la calidad de respuestas según la complejidad
+de la consulta.
+Pregunta X: ¿Cómo podría impactar la falta de coherencia
+conversacional en la experiencia del usuario en un chatbot de
+IA generativa?
+a) Acelerando la velocidad de procesamiento de consultas.
+b) Generando respuestas más personalizadas.
+c) Creando confusión y disminuyendo la comprensión.
+d) Mejorando la adaptabilidad.
+Pregunta X: ¿Cómo podría afectar la variabilidad en la calidad de las
+respuestas según la complejidad de la consulta?
+a) Aumentando la eficiencia temporal.
+b) Creando confusión en el usuario.
+c) Optimizando la presentación visual de la interfaz.
+d) Garantizando la adaptabilidad.
+Pregunta X: ¿Cómo contribuye la capacidad de reconocimiento facial
+en un chatbot de IA generativa?
+a) Mejora la adaptabilidad.
+b) Mejora la coherencia conversacional.
+c) Facilita la personalización de respuestas.
+d) No tiene impacto en la usabilidad.

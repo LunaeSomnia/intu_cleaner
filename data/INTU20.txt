@@ -1,0 +1,53 @@
+Interfaces de voz (VUIs)
+20
+dbccadbbbc
+Pregunta X: ¿Cuál fue uno de los primeros sistemas de reconocimiento de voz desarrollado por Bell en los años 50-60?
+a) Alexa
+b) Siri
+c) Google Assistant
+d) Audrey
+Pregunta X: ¿Qué tecnología es fundamental para el funcionamiento de Siri, Alexa y Google Assistant?
+a) Reconocimiento de gestos
+b) Procesamiento de lenguaje natural
+c) Conexión Bluetooth
+d) Inteligencia artificial general
+Pregunta X: ¿Qué función describe mejor a las VUIs 'Basadas en Instrucciones'?
+a) Mantener conversaciones complejas
+b) Interpretar emociones humanas
+c) Ejecutar comandos de voz específicos
+d) Aprender de interacciones pasadas
+Pregunta X: ¿Cuál de los siguientes es un ejemplo de VUI orientada a la accesibilidad?
+a) Siri
+b) Google Assistant
+c) Talkback
+d) Alexa
+Pregunta X: ¿Qué era capaz de hacer Audrey, la interfaz de usuario de voz (VUI) de IBM desarrollada en los años 60?
+a) Reconocer dígitos por voz.
+b) Traducir idiomas en tiempo real.
+c) Detectar emociones a través de la voz.
+d) Comprender y responder a cualquier idioma.
+Pregunta X: ¿Cuál de los siguientes es un ejemplo de VUI utilizado en la aviación y el ámbito militar?
+a) Sistemas ERP
+b) Juegos en línea
+c) Asistentes de voz para dispositivos del hogar
+d) Sistemas de manos libres para situaciones críticas
+Pregunta X: ¿Cuál de estas es una consideración ética importante en el desarrollo de VUIs?
+a) Diseño gráfico avanzado
+b) Privacidad y seguridad de datos
+c) Uso de efectos de sonido
+d) Integración con redes sociales
+Pregunta X: ¿Qué tipo de VUI es Siri de Apple?
+a) Instructiva
+b) Conversacional
+c) Basada en texto
+d) Orientada a la accesibilidad
+Pregunta X: ¿Qué característica es esencial en el diseño de VUIs según la presentación?
+a) Animaciones visuales
+b) Retroalimentación auditiva y ayuda constante
+c) Comandos de voz en varios idiomas
+d) Integración con dispositivos de realidad virtual
+Pregunta X: ¿Qué representa 'Voiceflow' en el contexto de las VUIs?
+a) Un asistente de voz
+b) Una tecnología de reconocimiento de voz
+c) Una plataforma No Code para crear VUIS
+d) Un estándar de diseño para interfaces de voz

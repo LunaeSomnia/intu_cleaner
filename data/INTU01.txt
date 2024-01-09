@@ -1,0 +1,156 @@
+Entornos de Desarrollo de Videojuegos
+1
+bcacdcaabd
+Pregunta 1: ¿Cuál de las
+siguientes opciones describe
+mejor un entorno de
+desarrollo de videojuegos?
+a) Un conjunto de reglas y
+normativas para jugar
+videojuegos.
+b) Un conjunto de
+herramientas, bibliotecas y
+funciones que facilitan la
+creación, diseño y desarrollo
+de videojuegos.
+c) Un equipo de
+desarrolladores que trabajan
+en la creación de videojuegos.
+d) Un mercado en línea para
+comprar y vender
+videojuegos.
+Pregunta 2: ¿Cuál de las
+siguientes NO es una
+característica común
+entre todos los entornos
+de desarrollo de
+videojuegos?
+a) Motor gráfico.
+b) Editor de escenarios.
+c) Sistema de
+clasificación de
+videojuegos.
+d) Lenguaje de
+programación.
+Pregunta 3: ¿Cuál de
+los siguientes entornos
+de desarrollo es
+conocido por su
+utilización en la
+creación de juegos 3D
+de alta calidad y se
+utiliza a menudo en la
+industria del cine y la
+televisión?
+a) Unreal Engine.
+b) Unity
+c) Godot Engine.
+d) RPG Maker VX.
+Pregunta 4: ¿Cuál de
+los siguientes
+entornos de
+desarrollo de
+videojuegos es
+popular por su
+enfoque en juegos
+indie y su licencia de
+código abierto?
+a) Unity.
+b) Unreal Engine.
+c) Godot Engine.
+d) GameMaker.
+Pregunta 5: ¿Qué
+capacidades ofrece
+Unity a los
+desarrolladores en
+términos de creación de
+contenido interactivo?
+a) Solo permite la
+creación de videojuegos
+en 2D.
+b) Permite únicamente
+la creación de
+aplicaciones en realidad
+aumentada.
+c) Está limitado a la
+creación de contenido
+interactivo en 3D.
+d) Facilita la creación de
+videojuegos y
+aplicaciones en 2D, 3D,
+realidad aumentada y
+realidad virtual.
+Pregunta 6: ¿Cuál de las
+siguientes características
+destaca como una
+fortaleza principal de
+Unity en términos de
+apoyo y recursos
+disponibles para los
+desarrolladores?
+a) Licenciamiento
+flexible.
+b) Rendimiento superior.
+c) Amplia comunidad y
+recursos.
+d) Gráficos y realismo
+mejorados.
+Pregunta 7: ¿Cuál de los
+elementos mencionados
+podría considerarse
+como un posible
+inconveniente frente a
+otros entornos como
+Unreal Engine?
+a) Gráficos y realismo.
+b) Facilidad de uso y
+accesibilidad.
+c) Rendimiento
+optimizado.
+d) Limitaciones en la
+multiplataforma.
+Pregunta 8: ¿Cómo se
+estructuran los
+escenarios en Unity?
+a) Los escenarios están
+formados por varios
+tilemap (capas) con un
+Tile Palette para
+modificarlos.
+b) Los escenarios están
+compuestos por un único
+tilemap.
+c) Cada escenario tiene
+un único tilemap para
+suelo y colisiones.
+d) Los escenarios se
+crean sin la necesidad de
+utilizar tilemaps.
+Pregunta 9: ¿Qué
+elemento es esencial
+como base para la
+creación de un personaje
+en el juego?
+a) Tile Palette.
+b) EmptyObject
+c) Manejador de interfaz
+de usuario.
+d) Animaciones
+Pregunta 10: ¿Cómo se
+facilita la comunicación con
+otros personajes no
+jugadores (npcs) en Unity
+según la información
+proporcionada?
+a) A través de un sistema de
+correos electrónicos
+integrado en Unity.
+b) Mediante la creación de
+un cuadro de texto estático.
+c) Empleando un sistema de
+mensajes de voz para los
+diálogos con los npcs.
+d) Utilizando un manejador
+de interfaz de usuario y
+asignando un cuadro de
+texto a los npcs.

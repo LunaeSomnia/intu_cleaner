@@ -1,0 +1,53 @@
+Estudio sobre Angular y su Ecosistema
+9
+bbcbbbbacc
+Pregunta X: ¿Qué es Angular?
+a) Un lenguaje de programación.
+b) Un framework de desarrollo web.
+c) Un sistema operativo.
+d) Una base de datos.
+Pregunta X: ¿Cómo se crea una aplicación en Angular?
+a) ng generate app
+b) ng new app
+c) ng add app
+d) ng create v
+Pregunta X: ¿Cuál es el lenguaje principal utilizado en Angular?
+a) Java.
+b) Python.
+c) TypeScript.
+d) HTML.
+Pregunta X: ¿Qué es TypeScript en el contexto de Angular?
+a) Un sistema operativo.
+b) Un superconjunto de JavaScript.
+c) Un servidor web.
+d) Una base de datos.
+Pregunta X: ¿Cuál es el propósito de NG en el desarrollo con Angular?
+a) Crear interfaces de usuario.
+b) Facilitar la creación, construcción y prueba de proyectos Angular.
+c) Automatizar tareas de diseño.
+d) Mantener bases de datos.
+Pregunta X: ¿Qué directiva se utiliza en Angular para iterar sobre una colección?
+a) ngModel
+b) for
+c) defer
+d) while
+Pregunta X: ¿Qué se logra al utilizar la directiva "ngModel"?
+a) Comunicación entre componentes.
+b) Vinculación bidireccional entre el input y la variable del componente.
+c) Iteración sobre una colección de datos.
+d) Mejora en la velocidad de carga de la aplicación.
+Pregunta X: ¿Qué decorador se utiliza en Angular para recibir datos del padre al hijo?
+a) @Input
+b) @Output
+c) @Service
+d) @Emmiter
+Pregunta X: ¿Cuál es la función principal del "FormGroup"?
+a) Mejorar la velocidad de carga de la aplicación.
+b) Iterar sobre una colección de datos.
+c) Agrupar y validar los datos del formulario.
+d) Controlar la activación y desactivación de botones.
+Pregunta X: ¿Qué directiva se utiliza para especificar la ruta a la que se dirigirá al hacer clic en un link?
+a) defer
+b) router-outlet
+c) routerLink
+d) ngModel

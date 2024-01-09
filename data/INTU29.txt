@@ -1,0 +1,65 @@
+Flutter
+29
+aaddacdbbd
+Pregunta 1:
+El lenguaje que se usa en Flutter es:
+a) Dart, desarrollado por Google
+b) Dart, desarrollado por Apple
+c) JavaScript
+d) Python
+Pregunta 2:
+La característica Hot Reload de Flutter:
+a) Permite actualizar el código de la aplicación sin cambiar su estado
+b) Permite actualizar el código de la aplicación reiniciando su estado
+c) Eso es de Angular
+d) Las anteriores son incorrectas
+Pregunta 3:
+El widget que permite añadir semántica adicional a otros widgets:
+a) Es un atributo semanticsLabel que tienen todos los widgets
+b) Se llama Semantics y tiene que envolver a otros widgets.
+c) Flutter añade descripciones a todos los widgets y no hace falta nada más.
+d) a y b son correctas
+Pregunta 4:
+Para crear componentes adaptativos/responsive
+a) Flutter no ofrece mecanismos
+b) Flutter permite consultar las medidas de la pantalla
+c) Flutter incorpora widgets que se adaptan automáticamente
+d) b y c son correctas
+Pregunta 5:
+Sobre Flutter:
+a) Las aplicaciones se componen anidando widgets
+b) Se separa la lógica de los componentes visuales
+c) Sigue un enfoque imperativo como en la mayoría de frameworks
+d) b y c son correctas
+Pregunta 6:
+Sobre Flutter:
+a) Permite desarrollar aplicaciones para ios y android pero no para web
+b) Permite desarrollar aplicaciones para ios, android y web
+c) Permite desarrollar aplicaciones para ios, android, web y escritorio
+d) Es sólo para web.
+Pregunta 7:
+Los widgets en Flutter
+a) Almacenan lógica y el estado de la aplicación
+b) Son de dos tipos: Stateless y Stateful
+c) En los widget Statefull, cada vez que se llama al método setState() este se
+actualiza
+d) Todas son correctas
+Pregunta 8:
+Sobre Fultter:
+a) Fue desarrollado por Apple
+b) Fue desarrollado por Google
+c) Fue desarrollado por Microsoft
+d) Fue desarrollado por IBM
+Pregunta 9:
+Para Flutter en aplicaciones web
+a) Es necesario modificar el código para que pueda usarse en web
+b) No es necesario hacer ninguna modificación
+c) Flutter no es compatible con aplicaciones web
+d) Se puede hacer compatible añadiendo librerías externas
+Pregunta 10:
+Flutter permite definir paletas de colores para que se use en toda la aplicación:
+a) Verdadero
+b) Pero cada widget tiene que hacer referencia a la platea para establecer su
+color
+c) Falso
+d) a y b son correctas

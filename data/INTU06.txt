@@ -1,0 +1,54 @@
+Material Design 3
+6
+cababadaac
+Pregunta X: ¿Cuál es la tipografía usada por Material Design?
+a) Times New Roman
+b) Arial
+c) Roboto
+d) Courier New
+Pregunta X: ¿Cuál es la técnica que se refiere al espacio entre elementos de la interfaz de usuario?
+a) Técnica de padding
+b) Técnica de densidad de píxeles
+c) Técnica de centrado
+d) Técnica de agrupación
+Pregunta X: ¿Qué compañía creó Material Design?
+a) Microsoft
+b) Google
+c) Facebook
+d) Apple
+Pregunta X: ¿Cuáles son las dos principales regiones de un layout?
+a) Navegación y body
+b) Top App Bar y Bottom App Bar
+c) Tarjeta y Diálogo
+d) Navegación y Búsqueda
+Pregunta X: ¿Qué es Google Material Design?
+a) Lenguaje de programación
+b) Lenguaje de diseño
+c) Motor de búsqueda
+d) Un sistema operativo
+Pregunta X: ¿Qué significa el concepto "Elevación" en Material Design?
+a) La altura de un elemento en la interfaz
+b) El proceso de diseñar interfaces
+c) La capacidad de respuesta de una aplicación
+d) Ninguna de las anteriores
+Pregunta X: ¿Cuál es la función de la "Top App Bar" en Material Design?
+a) Ocultar elementos de la interfaz
+b) Mostrar anuncios
+c) Proporcionar información de contacto
+d) Contiene elementos como el título de la aplicación, iconos de acciones, menús
+desplegables y otros elementos de navegación
+Pregunta X: ¿Para qué se usa el color en Material Design?
+a) Para la estética y para indicar jerarquías y acciones
+b) Solo para la estética
+c) Solo para indicar acciones
+d) Mejorar la velocidad de la aplicación
+Pregunta X: ¿Cuál es el objetivo de Polymer?
+a) Crear interfaces usando componentes reutilizables
+b) Facilitar la integración de realidad virtual en aplicaciones
+c) Optimizar la ejecución de scripts en el navegador
+d) Facilitar la creación de sitios web con efectos 3D
+Pregunta X: ¿En qué versión se encuentra Google Material Design actualmente?
+a) 1
+b) 2
+c) 3
+d) 4

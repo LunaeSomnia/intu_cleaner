@@ -1,0 +1,54 @@
+Bootstrap
+30
+bbcdccbbcc
+Pregunta 1: ¿Cuál es el objetivo principal de Bootstrap?
+a) Desarrollar aplicaciones móviles.
+b) Facilitar y acelerar el desarrollo web.
+c) Crear sistemas de bases de datos accesibles.
+d) Optimizar el rendimiento del servidor.
+Pregunta 2: ¿Qué tipo de aplicaciones web se pueden crear con Bootstrap?
+a) Aplicaciones de realidad virtual.
+b) Aplicaciones que cumplen con las WCAG 2.1, A/AA/AAA.
+c) Aplicaciones de inteligencia artificial.
+d) Aplicaciones exclusivas para navegadores Chrome.
+Pregunta 3: ¿Cuál es la base del sistema de rejilla de Bootstrap?
+a) Sistema de 6 columnas.
+b) Sistema de 9 columnas.
+c) Sistema de 12 columnas.
+d) Ninguna de las anteriores.
+Pregunta 4: ¿Qué biblioteca JavaScript incluye Bootstrap para funcionalidades interactivas?
+a) Angular.
+b) React.
+c) Vue.
+d) jQuery.
+Pregunta 5: ¿Cuál es una de las ventajas de la rejilla responsiva de Bootstrap?
+a) No se adapta a diferentes tamaños de pantalla.
+b) Solo se adapta a teléfonos móviles.
+c) Se adapta automáticamente a diferentes dispositivos.
+d) Solo es compatible con ordenadores de escritorio.
+Pregunta 6: ¿Qué tipo de componentes preestablecidos ofrece Bootstrap?
+a) Componentes de inteligencia artificial.
+b) Componentes de realidad virtual.
+c) Componentes listos para usar, como botones y formularios.
+d) Componentes exclusivos para navegadores Safari.
+Pregunta 7: ¿Para qué se utilizan los estilos predefinidos en Bootstrap?
+a) Solo para mejorar el rendimiento.
+b) Para garantizar una apariencia coherente en diferentes navegadores y dispositivos.
+c) Solo para desarrolladores experimentados.
+d) Para crear exclusivamente sitios web de comercio electrónico.
+Pregunta 8: ¿Cuál es uno de los usos de los componentes de Bootstrap?
+a) Crear algoritmos de inteligencia artificial.
+b) Facilitar la creación de interfaces de usuario atractivas.
+c) Optimizar bases de datos.
+d) Desarrollar software de edición de imágenes.
+Pregunta 9: ¿Cuál de las siguientes afirmaciones sobre la rejilla responsiva de Bootstrap es falsa?
+a) La rejilla se basa en un sistema de 12 columnas.
+b) Permite crear diseños que se adaptan automáticamente a diferentes dispositivos.
+c) Bootstrap no se preocupa por la adaptabilidad de los diseños.
+d) Puede utilizarse para dispositivos como teléfonos móviles, tabletas y computadoras de
+escritorio.
+Pregunta 10: ¿Cómo contribuye Bootstrap al ahorro de tiempo en el desarrollo web?
+a) Reduciendo la calidad visual de los sitios web.
+b) Eliminando la necesidad de pruebas de rendimiento.
+c) Proporcionando estilos predefinidos y componentes listos para usar.
+d) Acelerando la velocidad de carga de las páginas web.

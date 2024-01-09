@@ -1,0 +1,71 @@
+Desarrollo de interfaces GUI en python utilizando el framework Qt
+24
+cbbabccbcd
+Pregunta X: ¿Cómo se separan los bloques de código en Python, según el texto?
+a) Llaves
+b) Puntos y comas
+c) Indentaciones de espacios en blanco
+d) Comillas simples
+
+Pregunta X: ¿Qué característica de Python permite su utilización en múltiples
+dominios de aplicación?
+a) Tipado estático
+b) Módulos y paquetes
+c) Sintaxis compleja
+d) Variables globales
+
+Pregunta X: ¿Cómo es la gestión de memoria en Python?
+a) Gestión manual
+b) Automática y transparente
+c) Dependiente del sistema
+d) Limitada en eficiencia
+
+Pregunta X: ¿En qué tipo de entornos las desventajas de Python podrían ser más
+significativas?
+a) Desarrollo móvil
+b) Desarrollo web
+c) Desarrollo de software de escritorio
+d) Programación de sistemas embebidos
+
+Pregunta X: ¿Qué característica de Python puede resultar en una velocidad de
+ejecución más lenta en comparación con lenguajes compilados?
+a) Tipado estático
+b) Interpretación
+c) Compilación previa
+d) Gestión eficiente de memoria
+
+Pregunta X: ¿Cómo se establece la conexión de un botón en la interfaz con un
+método específico en el código?
+a) self.button.connect(self.metodo())
+b) self.button.bind(self.metodo())
+c) self.button.clicked.connect(lambda: self.metodo())
+d) self.button.clicked(self.metodo())
+
+Pregunta X: ¿Qué comando se utiliza para instalar las dependencias en un
+proyecto de Python?
+a) pip install project-dependencies
+b) apt-get install dependencies
+c) pip install -r requirements.txt
+d) pip install dependencies
+
+Pregunta X: ¿Cuál es el propósito de Qt Designer en el desarrollo de un prototipo
+de interfaz gráfica?
+a) Transformar archivos de recursos a módulos de Python
+b) Crear visualmente ventanas y widgets
+c) Añadir funcionalidad a una interfaz gráfica .ui
+d) Convertir archivos de diseño a código Python
+
+
+Pregunta X: ¿Qué herramienta se utiliza para transformar archivos de recursos
+.qrc a módulos de Python?
+a) Qt Designer
+b) pyuic6
+c) pyside6-rcc
+d) pip
+
+Pregunta X: ¿Cuál es la función del stackedWidget en las interfaces gráficas
+que contienen menús?
+a) Controla la ejecución de eventos del teclado
+b) Permite añadir funcionalidad a los botones de una ventana
+c) Facilita la creación visual de ventanas
+d) Permite superponer distintas secciones de la interfaz

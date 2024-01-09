@@ -1,0 +1,76 @@
+Herramientas de diseño de interfaces en entornos Android
+33
+cadccccabd
+Pregunta 1: Las aplicaciones de diseño de interfaces específicas en la
+Google Play Store …
+a) Son muchas y de gran calidad.
+b) Son muchas, pero no de gran calidad.
+c) Son pocas y no de gran calidad.
+d) No existen.
+Pregunta 2: Las aplicaciones de diseño general en la Google Play Store …
+a) Son muchas y de gran calidad.
+b) Son muchas, pero no de gran calidad.
+c) Son pocas y no de gran calidad.
+d) No existen.
+Pregunta 3: Las aplicaciones móviles de diseño, respecto a herramientas
+de escritorio y web …
+a) Son tan completas y ágiles.
+b) No son tan completas, pero sí más ágiles.
+c) Son más completas y más ágiles.
+d) No son ni más completas, ni más ágiles.
+Pregunta 4: Para diseñar una interfaz de usuario en Android, si buscamos
+fidelidad y agilidad…
+a) Lo mejor es hacerlo mediante una app específica para
+el diseño de interfaces.
+b) Obtendremos resultados y experiencias similares
+mediante una app específica de diseño de interfaces
+como una app de diseño general.
+c) Las apps de diseño generales son la mejor alternativa.
+d) No es posible el diseño de interfaces en Android.
+Pregunta 5: Lo que hace destacar a la aplicación Microsoft Whiteboard
+es …
+a) Sus útiles animaciones y efectos.
+b) La grandísima variedad de personalización que
+ofrece en cuanto a colores y fuentes.
+c) Su soporte tanto web como en escritorio y
+mecanismo de trabajo colaborativo.
+d) No destaca en nada en particular.
+Pregunta 6: La aplicación Vector Ink es …
+a) La mejor alternativa para el diseño de interfaces de
+usuario.
+b) Una buena alternativa para el diseño de interfaces
+de usuario.
+c) Un complemento para el diseño de interfaces de
+usuario.
+d) Una de las mejores librerías de plantillas de la
+Google Play Store.
+Pregunta 7: La aplicación de Figma…
+a) Es la mejor aplicación de diseño de interfaces,
+como cabría esperar.
+b) Es una aplicación más de diseño de interfaces, sin
+destacar en exceso.
+c) Sirve principalmente para visualizar diseños, no
+para diseñar.
+d) No existe tal aplicación en la Google Play Store.
+Pregunta 8: Uno de los puntos débiles de las aplicaciones móviles para
+el diseño de interfaces es …
+a) La interactividad y los diseños dinámicos.
+b) Los estilos de las fuentes.
+c) Las librerías de iconos.
+d) El sombreado de los elementos.
+Pregunta 9: La aplicación más popular de plantillas de la Google Play
+Store es …
+a) Tanto Material X como CodeX son igual de
+populares.
+b) MaterialX.
+c) CodeX.
+d) ComponeX
+Pregunta 10: La aplicaciones de plantillas propuestas (MaterialX y
+CodeX) ofrecen su código …
+a) Gratuitamente, independientemente de su uso.
+b) Gratuitamente, aunque se debe pagar para su uso
+comercialmente.
+c) Pagando una subscripción, tanto para uso personal
+como comecial.
+d) Mediante pago único, tanto para uso personal como
+comecial.

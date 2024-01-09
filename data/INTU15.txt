@@ -1,0 +1,62 @@
+React y MUI
+15
+bcbccabdbc
+Pregunta X: ¿Quiénes son los desarrolladores principales de React?
+a) Google
+b) Facebook
+c) Microsoft
+d) Apple
+Pregunta X: ¿Cuál de las siguientes declaraciones describe correctamente
+el propósito de React en el desarrollo de aplicaciones web?
+a) React es un lenguaje de programación de backend.
+b) React se utiliza para el diseño de estilos y estética en las
+aplicaciones.
+c) React es una biblioteca de JavaScript para construir interfaces
+de usuario interactivas.
+d) React es exclusivamente para la gestión de bases de datos en
+tiempo real.
+Pregunta X: ¿Qué hace que React sea eficiente en la gestión del DOM?
+a) Uso de jQuery
+b) Implementación del Virtual DOM
+c) Uso de AJAX
+d) Integración con TypeScript
+Pregunta X: ¿En qué se basa la arquitectura de React para facilitar la
+reutilización del código?
+a) MVC (Model-View-Controller)
+b) MVVM (Model-View-ViewModel)
+c) Arquitectura basada en componentes
+d) Arquitectura monolítica
+Pregunta X: ¿Cuál es uno de los principios de diseño establecidos por
+Material Design de Google?
+a) Flexbox
+b) Grid Layout
+c) Diseño basado en componentes
+d) Programación orientada a objetos
+Pregunta X: ¿Cómo se puede agregar Material-UI a un proyecto de
+React?
+a) Con npm o yarn
+b) Con pip
+c) Descargando un archivo ZIP
+d) Usando Git directamente
+Pregunta X: ¿Qué herramientas se sugieren para diseñar la interfaz
+antes de implementarla en React?
+a) Visual Studio Code
+b) Figma o Adobe XD
+c) Eclipse
+d) Atom
+Pregunta X: ¿Qué facilita el sistema de estilos y temas de Material-UI?
+a) Personalización compleja
+b) Integración con React
+c) Desarrollo rápido
+d) Adaptación de la apariencia de la interfaz
+Pregunta X: ¿Cuál de estas es una debilidad potencial de React?
+a) Suavidad en la curva de aprendizaje
+b) Pronunciada curva de aprendizaje
+c) Falta de recursos en línea
+d) Dependencia de una pila de tecnología específica
+Pregunta X: ¿Qué podría afectar el tamaño del paquete en una aplicación
+que utiliza Material-UI?
+a) Uso de Redux
+b) Tamaño de la pantalla
+c) Número de componentes de Material-UI utilizados
+d) Tipo de servidor web

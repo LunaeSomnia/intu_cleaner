@@ -1,0 +1,73 @@
+Google Material Design
+8
+bbbbdcaabb
+Pregunta 1:
+¿Cuáles de las siguientes aplicaciones o programas usan el lenguaje de diseño de Material Design?
+a) Facebook, Twitter, LinkedIn
+b) Youtube, Gmail, Google Maps
+c) Microsoft Office, Adobe Photoshop, Skype
+d) Instagram, Snapchat, TikTok
+Pregunta 2:
+¿Qué describe mejor que es un lenguaje de diseño?
+a) Una colección de herramientas de programación utilizadas para crear aplicaciones.
+b) Un conjunto de patrones y normas para el diseño coherente de elementos de una interfaz.
+c) Una serie de técnicas exclusivas para el diseño gráfico.
+d) Un método para la estandarización de colores y fuentes en la publicidad.
+Pregunta 3:
+¿Cuál es el orden correcto de los pasos para crear un lenguaje de diseño?
+a) Asignar roles, conocer a los usuarios, compartir principios, construcción del lenguaje, analizar componentes,
+almacenar componentes.
+b) Compartir principios, asignar roles, conocer a los usuarios, construcción del lenguaje, analizar componentes,
+almacenar componentes.
+c) Conocer a los usuarios, compartir principios, asignar roles, analizar componentes, construcción del lenguaje,
+almacenar componentes.
+d) Construcción del lenguaje, compartir principios, asignar roles, conocer a los usuarios, analizar componentes,
+almacenar componentes.
+Pregunta 4:
+¿Cuál es el propósito principal de Google Material Design?
+a) Mejorar la velocidad de las aplicaciones.
+b) Proporcionar una interfaz accesible y entendible a simple vista.
+c) Reducir la cantidad de datos en pantalla.
+d) Aumentar la seguridad en las aplicaciones.
+Pregunta 5:
+¿Cuál es una de las bases fundamentales del Material Design en términos de accesibilidad?
+a) Incrementar la velocidad de carga de las páginas web.
+b) Reducir el número de elementos interactivos en la pantalla.
+c) Fomentar el uso de colores vibrantes en todas las interfaces.
+d) Diseñar productos inclusivos para una amplia gama de experiencias humanas y discapacidades.
+Pregunta 6:
+¿Qué tipo de tipografía recomienda utilizar Google Material Design?
+a) Arial
+b) Times New Roman
+c) Roboto
+d) Helvetica
+Pregunta 7:
+¿Por qué se eligió Figma para crear el prototipo que implementa Google Material Design?
+a)Debido a la facilidad de trabajar en equipo y compartir proyectos, así como la disponibilidad de funciones,
+herramientas y sencilla integración de Material Design.
+b) Porque Figma es la única herramienta compatible con Material Design.
+c) Porque Figma es más rápido y eficiente que otras herramientas como Axure RP y Angular.
+d) Únicamente por las ventajas económicas de Figma para estudiantes y docentes.
+Pregunta 8:
+¿Qué características se implementaron en la página de login del prototipo siguiendo las directrices de Google Material
+Design?
+a) Uso de un esquema de colores audaz y funcionalidad de registro con cuenta de Google.
+b) Integración de animaciones complejas y uso exclusivo de íconos.
+c) Fondo animado y botones de acceso rápido.
+d) Aplicación de un diseño minimalista con colores neutros.
+Pregunta 9:
+¿Qué elementos se utilizaron en la página de inicio para reflejar las noticias según
+los estándares de Google Material Design?
+a) Uso de imágenes grandes y texto en negrita.
+b) Tarjetas individuales para cada noticia, con títulos de fuente grande y audaz, y
+efectos al pasar el ratón.
+c) Uso de videos interactivos y enlaces directos a redes sociales.
+d) Integración de publicidad interactiva y banners.
+Pregunta 10:
+¿Cuál es la principal diferencia filosófica entre Google Material Design y Windows Fluent Design?
+a) Material Design se inspira en la naturaleza, mientras que Fluent Design se enfoca en la eficiencia energética.
+b) Material Design se basa en el mundo físico y táctil, mientras que Fluent Design enfatiza la luz y la profundidad para
+experiencias inmersivas.
+c) Material Design se centra en el minimalismo extremo, mientras que Fluent Design se centra en la funcionalidad.
+d) Material Design utiliza colores monocromáticos y sin demasiada viveza, mientras que Fluent Design utiliza una
+paleta de colores vibrantes.

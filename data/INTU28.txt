@@ -1,0 +1,78 @@
+Interacción Persona/Ordenador en Windows 11, MacOS y Linux
+28
+cadadcccdb
+Pregunta 1:
+¿Cuáles de los sistemas que se mencionan en el trabajo es de código abierto?
+a) Windows.
+b) MacOs.
+c) Linux.
+d) Ninguna de las anteriores.
+
+Pregunta 2:
+Respecto a la interacción escrita en Linux, cuál de las siguientes opciones es cierta
+a) Linux incluye un terminal desde el que se pueden escribir comandos para manejarlo.
+b) El terminal por defecto es SSH.
+c) Linux tiene varios atajos de teclado por defecto, pero no se pueden configurar.
+d) Para la creación de scripts en Linux tiene que instalar programas adicionales.
+
+Pregunta 3:
+Respecto a la interacción por voz de macOS, cuál de las siguientes opciones es cierta
+a) Apple no permite a los desarrolladores de aplicaciones de terceros usar las opciones del sistema de
+interacción por voz.
+b) Siri no se puede integrar con otros dispositivos Apple.
+c) MacOS no incluye por defecto la lectura de pantalla.
+d) Todas son incorrectas.
+
+Pregunta 4:
+¿Cuáles de los sistemas estudiados tiene opción de teclado en pantalla?
+a) Todos la tienen por defecto.
+b) Todos la tienen, pero en Linux debes descargarte un programa adicional.
+c) Linux y macOS tienen la opción de usar el teclado en pantalla, no Windows.
+d) Ninguno de los sistemas incluye el teclado en pantalla.
+
+Pregunta 5:
+Respecto a los atajos de teclado, seleccione la opción verdadera:
+a) Ctrl + C sirve para copiar el texto seleccionado en todos los sistemas.
+b) Linux no tiene atajos de teclado.
+c) Windows incluye la tecla command o cmd para acceder a la mayoría de atajos de teclado.
+d) Todas son falsas.
+
+Pregunta 6:
+Sobre la accesibilidad en Windows, cuál de las siguientes opciones es cierta
+a) Windows cuenta con subtítulos automáticos en reproductores externos, como YouTube
+b) Microsoft no trabaja en mejorar la accesibilidad de Windows actualmente
+c) Windows cuenta con subtítulos en sus aplicaciones nativas, como Teams
+d) Windows no es compatible con software de tercero que ayude a la accesibilidad, como por ejemplo
+teclados en braille.
+
+
+Pregunta 7:
+¿Cuál de los siguientes programas es un programa relacionado con la accesibilidad en
+Linux?
+a) Nome.
+b) Vinux.
+c) Orca.
+d) Linux For All.
+
+Pregunta 8:
+Sobre MacOS, cuál de las siguientes opciones es FALSA
+a) El dictado por voz funciona con texto que no es del sistema, como en páginas web.
+b) Spotlight, la herramienta de búsqueda de MacOS, se puede usar sin el ratón.
+c) MacOS cuenta con soporte para hardware de terceros para facilitar la accesibilidad.
+d) Siri no se puede integrar con otros dispositivos del ecosistema Apple.
+
+
+Pregunta 9:
+Sobre la navegación por Internet, indique cual es cierta.
+a) En Linux, los navegadores vienen de forma nativa con todas las características de accesibilidad
+disponibles.
+b) Las herramientas de lectura de pantalla de MacOS no funcionan en los navegadores.
+c) Los atajos de teclado de Windows no funcionan en el navegador.
+d) Todas son incorrectas.
+
+Pregunta 10:
+¿Cuál de los siguientes NO es el nombre de un asistente virtual?
+a) Cortana
+b) Shodan
+c) Mycroft
+d) Siri

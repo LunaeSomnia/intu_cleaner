@@ -1,0 +1,63 @@
+Tecnicas de Eyetracking para Usabilidad Web
+11
+bbccdabbcb
+Pregunta X: ¿Cuál es el propósito del Eye
+Tracking?
+a) Medir la temperatura de los ojos.
+b) Registrar los movimientos oculares y la ubicación de la mirada.
+c) Analizar la presión ocular durante diferentes tareas.
+d) Establecer la conexión entre el movimiento ocular y la toma de
+decisiones.
+Pregunta X: ¿Cuál fue la contribución de Charles
+Bell al estudio del eye tracking?
+a) Desarrolló modernos eye trackers basados en vídeo.
+b) Asoció el control del movimiento ocular al cerebro en 1823.
+c) Estableció el patrón de lectura en forma de F.
+d) Introdujo la luz infrarroja en el seguimiento ocular.
+Pregunta X: ¿Cómo han evolucionado los eye
+trackers en términos de accesibilidad?
+a) Se han vuelto más costosos y complicados.
+b) Han permanecido igual a lo largo de los años.
+c) Se han vuelto más accesibles gracias a los avances tecnológicos.
+d) Han dejado de utilizarse en la investigación experimental.
+Pregunta X: ¿Cuáles son los patrones de diseño
+web más utilizados?
+a) Patrón en forma de L y patrón en forma de W.
+b) Patrón en forma de U y patrón en forma de F.
+c) Patrón en forma de F y patrón en forma de Z.
+d) Patrón en forma de W y patrón en forma de Y.
+Pregunta X: ¿Cómo se describe el movimiento de
+lectura en el patrón en forma de Z?
+a) Comienza en la parte inferior derecha y se mueve hacia arriba.
+b) Comienza en la parte inferior izquierda y se mueve hacia arriba.
+c) Comienza en la parte superior derecha, se mueve diagonalmente y
+luego vuelve a subir hacia la izquierda.
+d) Comienza en la parte superior izquierda, se mueve diagonalmente y
+luego horizontalmente hacia la derecha.
+Pregunta X: ¿Qué es Hotjar?
+a) Una herramienta software para eye tracking
+b) Una herramienta hardware para eye tracking
+c) Una técnica de recogida de datos para eye tracking
+d) El apellido de uno de los precursores más importantes en la
+actualidad del eye tracking
+Pregunta X: ¿Qué es Feng-GUI?
+a) Una aplicación que organiza los datos recogidos mediante técnicas
+de eye tracking en mapas de calor
+b) Una inteligencia artificial que simula el movimiento de ojos humano y
+crea informes de visión
+c) Un software de recogida de datos para técnicas de eye tracking
+d) Una herramienta hardware que registra el movimiento ocular
+Pregunta X: ¿Cuál de estas no es una técnica de
+eye tracking?
+a) Oculografía infrarroja
+b) Sociooculografía
+c) Videooculografía
+d) Electrooculografía
+Pregunta X: ¿Qué tres sectores son los que más
+proyección tienen a futuro en relación
+al uso e implantación de técnicas de
+eye tracking?
+a) Medicina, Videojuegos, Industria 4.0
+b) Automoción, Videojuegos, Industria 4.0
+c) Automoción, Neuromarketing, Industria 4.0
+d) Automoción, Medicina, Videojuegos

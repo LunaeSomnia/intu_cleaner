@@ -1,0 +1,102 @@
+Herramientas de diseño de interfaces en entornos Android
+22
+bcbcccdccc
+Pregunta X:
+En el diseño de software, ¿qué aspectos abarca
+principalmente la UI (Interfaz de Usuario)?
+a) El aspecto visual y estético de la aplicación junto con la
+arquitectura de la aplicación.
+b) La forma en que los usuarios interactúan con la aplicación
+c) Únicamente la disposición de los elementos en la pantalla
+d) Exclusivamente la programación subyacente del software
+
+Pregunta X:
+En el diseño de interfaz de usuario para aplicaciones android, ¿qué se
+entiende por "Zona del pulgar"?
+a) Una área de la pantalla que debe dejarse en blanco para una
+apariencia minimalista.
+b) El espacio central de la pantalla que contiene información esencial.
+c) La región donde se deben colocar elementos de navegación y
+acciones frecuentes para facilitar el acceso con el pulgar.
+d) Una sección de la interfaz reservada exclusivamente para anuncios.
+
+Pregunta X:
+¿Cuál es la principal diferencia entre las animaciones creadas con la
+biblioteca Lottie y los GIFs animados?
+a) Las animaciones Lottie son estáticas, mientras que los GIFs son más
+dinámicos.
+b) Las animaciones Lottie se generan mediante código almacenado en
+un archivo JSON, mientras que los GIFs están compuestos por secuencias
+de imágenes.
+c) Los GIFs tienen un rendimiento más eficiente en comparación con las
+animaciones Lottie.
+d) Las animaciones Lottie son más pesadas debido a su mayor
+complejidad.
+
+Pregunta X:
+¿En qué situación sería más apropiado utilizar componentes en el
+diseño de interfaces Android?
+a) Solo cuando se trabaja en proyectos muy grandes y complejos.
+b) Exclusivamente para elementos visuales simples y estáticos.
+c) Cuando se desea crear elementos que se repiten en diferentes
+pantallas o dentro de una misma pantalla.
+d) Únicamente para componentes con variantes específicas.
+
+Pregunta X:
+¿Cómo pueden beneficiarse los diseñadores menos
+experimentados al utilizar plantillas en el diseño UI?
+a) Aumentando la complejidad de sus proyectos.
+b) Limitando su exposición a los principios fundamentales del
+diseño.
+c) Facilitando la entrada al mundo del diseño y permitiendo la
+familiarización con los principios fundamentales.
+d) Restringiendo su creatividad en el proceso de diseño.
+
+Pregunta X:
+¿Cómo contribuyen las herramientas de diseño UI a la
+adaptabilidad de las interfaces a diferentes dispositivos?
+a) Ofrecen una interfaz intuitiva.
+b) Proporcionan bibliotecas de componentes.
+c) Permiten la colaboración en tiempo real.
+d) Permiten diseñar interfaces responsivas que se vean bien en
+diversas pantallas.
+
+Pregunta X:
+¿Por qué se destaca la validación dinámica como fundamental para los
+dispositivos móviles en el contexto de la entrada de usuarios?
+a) Porque la validación dinámica es una característica exclusiva de las
+computadoras de escritorio.
+b) Porque la validación dinámica es menos importante en dispositivos
+móviles.
+c) Porque ayuda a evitar que los usuarios ingresen información incorrecta sin
+esperar a la actualización de la página.
+d) Porque la validación dinámica solo se aplica a formularios extensos.
+
+Pregunta X:
+¿Cuál de las herramientas de diseño de interfaces se destaca
+por su capacidad de crear prototipos interactivos y
+animaciones complejas con facilidad?
+a) Proto.io
+b) Figma
+c) Protopie
+d) Sketch
+
+Pregunta X:
+¿En qué situación sería más apropiado utilizar componentes
+en el diseño de interfaces Android?
+a) Solo cuando se trabaja en proyectos muy grandes y
+complejos.
+b) Exclusivamente para elementos visuales simples y estáticos.
+c) Cuando se desea crear elementos que se repiten en
+diferentes pantallas o dentro de una misma pantalla.
+d) Únicamente para componentes con variantes específicas.
+
+Pregunta X:
+¿Por qué es esencial considerar la experiencia del usuario al solicitar permisos
+en una aplicación?
+a) Porque los usuarios siempre están dispuestos a conceder todos los permisos.
+b) Para garantizar que la aplicación tenga la mayor cantidad posible de
+permisos desde el principio.
+c) Porque una mala gestión de permisos puede afectar negativamente la
+experiencia del usuario.
+d) Para acelerar el proceso de desarrollo de la aplicación.

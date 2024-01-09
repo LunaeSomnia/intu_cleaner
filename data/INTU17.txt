@@ -1,0 +1,64 @@
+Estudio sobre la interacción persona/ordenador
+17
+aacbdbcacc
+Pregunta X: Señala la respuesta correcta:
+a) Windows 10, Ubuntu y macOs cuentan con la opción de activar un teclado en
+pantalla.
+b) Windows 10, Ubuntu y macOs no cuentan con la opción de activar un teclado en
+pantalla.
+c) Ubuntu y macOs cuentan con la opción de activar un teclado en pantalla.
+d) Windows 10 no cuenta con la opción de activar un teclado en pantalla.
+Pregunta X: La interacción persona-ordenador:
+a) Complica la interacción y no afecta a la retención de usuarios.
+b) Disminuye la productividad, empeora la accesibilidad y facilita la interacción.
+c) Facilita la interacción, mejora la accesibilidad y aumenta la productividad.
+d) No impacta en la adopción de tecnología.
+Pregunta X: Windows 10 cuenta con filtros para tratar tipos de daltonismo como la
+deuteranopía, protanopía y tritanopía:
+a) No, Windows 10 no tiene filtros de daltonismo, pero si otros tipos de filtros.
+b) Si, en Windows 10 hay filtros de daltonismo para poder diferenciar mejor los
+colores.
+c) No, Windows 10 no cuenta con ningún tipo de filtro.
+d) Si, Windows 10 tiene filtros de daltonismo, excepto el que trata la tritanopía.
+Pregunta X: ¿Cuál de las siguientes afirmaciones es verdadera acerca de los atajos de
+teclado en Ubuntu?:
+a) Los atajos de teclado no son relevantes en sistemas operativos Linux.
+b) Los atajos de teclado son incompatibles con programas de diseño gráfico.
+c) Los atajos de teclado son exclusivamente para navegadores web.
+d) Los atajos de teclado pueden incluir teclas persistentes.
+Pregunta X: En cuanto a la compatibilidad de Braille:
+a) El narrador de Windows no tiene compatibilidad con Braille porque no hay
+software compatible para ello.
+b) Ubuntu tiene compatibilidad con Braille por medio de herramientas como
+brlapi y comandos como brllty.
+c) MacOs no tiene un soporte sólido para dispositivos Braille, debido a que no se
+permite personalizar.
+d) Ni Windows ni macOs presentan compatibilidad con Braille.
+Pregunta X: La funcionalidad de dictado por voz, no está integrada en:
+a) Windows 10
+b) macOs
+c) Ubuntu
+d) Ninguno de los sistemas operativos incorpora el dictado por voz.
+Pregunta X: La herramienta Siri es mejor opción cuando:
+a) Se busca un asistente personal más amplio con capacidad para realizar diversas
+tareas.
+b) El enfoque principal es la interacción con el ordenador mediante comandos de
+voz.
+c) Necesitamos añadir dispositivos Braille.
+d) Se busca un asistente personal más amplio con capacidad para realizar diversas
+tareas, pero solo se puede usar en Windows 10.
+Pregunta X: El ajuste del tamaño de texto:
+a) En Windows10 nativo es personalizable, pero solo entre dos valores, texto
+normal y texto grande.
+b) En macOS nativo es personalizable, pero solo entre dos valores, texto normal y
+texto grande.
+c) En Ubuntu nativo es personalizable, pero solo entre dos valores, texto normal y
+texto grande.
+d) Todos pueden elegir el tamaño concreto del texto que se desee.
+Pregunta X: ……… utiliza el entorno de escritorio GNOME de forma predeterminada,
+ofreciendo una interfaz limpia y fácil de usar. Además se ha ganado una
+reputación en el ámbito de servidores y desarrollo.
+a) Windows.
+b) macOS.
+c) Ubuntu.
+d) Siri.
